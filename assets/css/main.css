@@ -300,7 +300,7 @@ input, select, textarea {
 	}
 
 	#bg {
-		background-size:  auto;
+		background-size: auto;
 		width: 6750px;
 	}
 
@@ -811,7 +811,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 1500px auto;
+			background-size: auto;
 			width: 4500px;
 		} }
 
@@ -893,7 +893,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 750px auto;
+			background-size: auto;
 			width: 2250px;
 		} }
 
@@ -979,7 +979,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 300px auto;
+			background-size: auto;
 			width: 900px;
 		}
 
